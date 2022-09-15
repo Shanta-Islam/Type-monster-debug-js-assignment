@@ -226,25 +226,10 @@ button {
 
 /* Article Page Styles  */
 
-#articles article {
+#blog-container article {
   color: white;
   border: 1px solid #9dffad;
   border-radius: 5px;
   padding: 15px 10px;
   margin-bottom: 15px;
-}
-
-#articles article h2 {
-  text-align: center;
-  margin-bottom: 8px;
-}
-
-#articles article p {
-  font-size: 18px;
-  font-weight: 500;
-  margin-top: 5px;
-}
-
-#articles article b {
-  color: #9dffad;
 }
